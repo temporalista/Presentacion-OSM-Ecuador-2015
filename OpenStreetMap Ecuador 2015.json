@@ -1,0 +1,1497 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 160,
+          "y": 104,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"'Ubuntu', sans-serif\" color=\"#67c278\">OpenStreetMap</font>",
+          "size": 83,
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 311,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div align=\"center\">Cómo y por qué se creó el mejor <br>mapa libre del Ecuador<br></div>",
+          "size": 46,
+          "selected": false,
+          "rotate": 0,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 141,
+          "y": 710,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Universidad de Cuenca<br>email: daniel.orellana@ucuenca.edu.ec<br>",
+          "size": 12,
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/logo-josm.png",
+          "type": "Image",
+          "x": 820,
+          "y": 80,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/Foto%20Daniel.jpg",
+          "type": "Image",
+          "x": 9,
+          "y": 631,
+          "scale": {
+            "x": 0.19966442953020133,
+            "y": 0.19966442953020133,
+            "width": 119,
+            "height": 117.40268456375838
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.creativecommons.org/l/by/3.0/ec/88x31.png",
+          "type": "Image",
+          "x": 850,
+          "y": 676,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 789,
+          "y": 722,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 12,
+          "text": "Esta obra está bajo una Licencia <br>Creative Commons Atribución 3.0 Ecuador<br>",
+          "selected": false
+        },
+        {
+          "src": "https://dl-web.dropbox.com/get/public/Imagenes/Banner%20OSM%20webinar%20EC.png?_subject_uid=13059132&w=AABJb-zK4kc8ebVQLJWSyd13zOAgOB9SmZjH1DX9we-8eA",
+          "type": "Image",
+          "x": 397,
+          "y": 621,
+          "scale": {
+            "x": 0.44238975817923176,
+            "y": 0.44238975817923176,
+            "width": 310.99999999999994,
+            "height": 134.04409672830724
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 142,
+          "y": 673,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">@temporalista</font>",
+          "size": 24,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 144,
+          "y": 637,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Daniel Orellana<br>",
+          "size": 24,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "markdown": "",
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 251,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#fff7f7\">¿Es de verdad <font color=\"#67c278\">OpenStreetMap </font><br>el mejor mapa libre del Ecuador?<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.25,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "surface": "bg-custom-a8baaa",
+      "x": 256,
+      "y": 200,
+      "background": "bg-solid-black"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 107,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#67c278\">De qué vamos a hablar hoy...<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 168,
+          "y": 124,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li>¿Qué es OpenStreetMap?</li></ul><ul><li>¿Qué puedo hacer con los datos?</li></ul><ul><li>¿Cómo puedo contribuir?</li></ul><ul><li>Flujos de trabajo<br></li></ul>",
+          "selected": false
+        },
+        {
+          "src": "https://dl-web.dropbox.com/get/public/Imagenes/OSM%20piemponte.png?_subject_uid=13059132&w=AADwkJDmLadKRwpTIy6ySFrPHUtkHdVwhnS07ITs_h21hA",
+          "type": "Image",
+          "x": 121,
+          "y": 342,
+          "scale": {
+            "x": 0.7700228832951945,
+            "y": 0.7700228832951945,
+            "width": 673,
+            "height": 377.31121281464533
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.25,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 256,
+      "y": 200,
+      "markdown": "",
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 82,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#67c278\">¿Qué es OpenStreetMap?<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 660,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Una Base de Datos<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 160,
+          "y": 488,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Una comunidad<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 624,
+          "y": 484,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "\"La wikipedia de los mapas\"<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 120,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Un mapa en Internet<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 420,
+      "y": 180,
+      "markdown": "",
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 564,
+          "y": 701,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<a href=\"http://www.openstreetmap.com\">www.openstreetmap.com</a>",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/Mapa%20OSM%20Ecuador.png",
+          "type": "Image",
+          "x": 125,
+          "y": 142,
+          "scale": {
+            "x": 0.7136060894386298,
+            "y": 0.7136060894386298,
+            "width": 749.9999999999999,
+            "height": 548.7630827783063
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 354,
+      "y": 169,
+      "background": "bg-transparent",
+      "surface": "bg-default"
+    },
+    {
+      "components": [
+        {
+          "src": "http://temporalista.github.io/slides-201305-OSM-Cuenca/imgs/osm_estructura.png",
+          "type": "Image",
+          "x": 89,
+          "y": 197,
+          "scale": {
+            "x": 0.8154296875,
+            "y": 0.8154296875,
+            "width": 835,
+            "height": 492.51953125
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 475,
+      "y": 167,
+      "background": "bg-transparent",
+      "surface": "bg-default"
+    },
+    {
+      "components": [
+        {
+          "src": "http://wiki.openstreetmap.org/w/images/thumb/7/79/Osmdbstats1_users.png/800px-Osmdbstats1_users.png",
+          "type": "Image",
+          "x": 22,
+          "y": 168,
+          "scale": {
+            "x": 0.60625,
+            "y": 0.60625,
+            "width": 484.99999999999994,
+            "height": 342.53125
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://en.flossmanuals.net/openstreetmap/beyond-the-map/_booki/openstreetmap/static/800px-State_of_the_Map_2009_-_Group_photo.jpg",
+          "type": "Image",
+          "x": 519,
+          "y": 204,
+          "scale": {
+            "x": 0.56125,
+            "y": 0.56125,
+            "width": 449,
+            "height": 249.75625000000002
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 355,
+      "y": 228,
+      "background": "bg-transparent",
+      "surface": "bg-default"
+    },
+    {
+      "components": [
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/licencias.png",
+          "type": "Image",
+          "x": 19,
+          "y": 146,
+          "scale": {
+            "x": 0.84,
+            "y": 0.84,
+            "width": 420,
+            "height": 543.48
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 523,
+          "y": 168,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 74,
+          "text": "Gratis ≠ libre<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font face=\"Abril Fatface\" color=\"#000000\">Text</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 520,
+          "y": 287,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 27,
+          "text": "Puedes usar los datos de OSM para<br>lo que quieras! <br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 474,
+      "y": 229,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 61,
+          "text": "Visualizarlos en tu propia página web<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 484,
+      "y": 240,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 43,
+          "y": 305,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 61,
+          "text": "Acceder a ellos cuando quieras, sin <br><div align=\"center\">restricciones<br></div>",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 472,
+      "y": 251,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 164,
+          "y": 182,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 71,
+          "text": "<div align=\"center\">Descargarlos, copiarlos <br></div><div align=\"center\">y distribuirlos<br>&nbsp;<br></div><div align=\"center\">(planeta ≈ 554 GB)<br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 499,
+      "y": 236,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 8,
+          "y": 221,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 84,
+          "text": "Modificarlos y actualizarlos<br>",
+          "selected": false
+        }
+      ],
+      "z": 800,
+      "impScale": 0.5,
+      "rotateX": 0.52,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 496,
+      "y": 236,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 51,
+          "y": 223,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Usarlos con fines comerciales<br>",
+          "selected": false
+        }
+      ],
+      "z": 600,
+      "impScale": 0.5,
+      "rotateX": 1.05,
+      "rotateY": 0.52,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 500,
+      "y": 260,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/OSM%20Cake.png",
+          "type": "Image",
+          "x": 110,
+          "y": 244,
+          "scale": {
+            "x": 1.2530487804878048,
+            "y": 1.2530487804878048,
+            "width": 821.9999999999999,
+            "height": 300.73170731707313
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 186,
+          "y": 557,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "\"Una información geográfica, o un mapa, es libre <br>sólo si alguien te puede regalar una tarta <br>con tu mapa encima.\"",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 511,
+          "y": 686,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "Ivan Sanchez Ortega, La Prueba de la Tarta<br><a href=\"http://blog-idee.blogspot.com/2009/11/la-prueba-de-la-tarta.html\">http://blog-idee.blogspot.com/2009/11/la-prueba-de-la-tarta.html</a><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 273,
+          "y": 64,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Hacer una torta<br>",
+          "selected": false
+        }
+      ],
+      "z": 400,
+      "impScale": 0.5,
+      "rotateX": 1.57,
+      "rotateY": 1,
+      "rotateZ": -0.31,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 489,
+      "y": 239
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 123,
+          "y": 30,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 95,
+          "text": "<font color=\"#67c278\">Pero si ya tenemos <br>Google Maps!!!<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/OSM%20compare%20Cuenca.png",
+          "type": "Image",
+          "x": 1,
+          "y": 226,
+          "scale": {
+            "x": 0.6817878585723817,
+            "y": 0.6817878585723817,
+            "width": 1022.0000000000001,
+            "height": 537.2488325550368
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 22,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#67c278\">OpenStreetMap vs Google Maps<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 407,
+          "y": 123,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div align=\"center\">Cuenca</div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 600,
+      "y": 193
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#67c278\">OpenStreetMap vs Google Maps<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 297,
+          "y": 127,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div align=\"center\">Santo Domingo <br></div>",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/OSM%20compare%20Santo%20Domingo.png",
+          "type": "Image",
+          "x": 2,
+          "y": 222,
+          "scale": {
+            "x": 0.6806947227788911,
+            "y": 0.6806947227788911,
+            "width": 1019,
+            "height": 539.7909151636607
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 636,
+      "y": 193
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#67c278\">OpenStreetMap vs Google Maps<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 386,
+          "y": 123,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div align=\"center\">Saraguro</div>",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/OSM%20compare%20Saraguro.png",
+          "type": "Image",
+          "x": 2,
+          "y": 225,
+          "scale": {
+            "x": 0.6798392498325518,
+            "y": 0.6798392498325518,
+            "width": 1014.9999999999999,
+            "height": 536.3931681178834
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 0.52,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 670,
+      "y": 193
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#67c278\">OpenStreetMap vs Google Maps<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 386,
+          "y": 123,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Sarajevo",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/OSM%20compare%20Sarajevo.png",
+          "type": "Image",
+          "x": -3,
+          "y": 226,
+          "scale": {
+            "x": 0.685370741482966,
+            "y": 0.685370741482966,
+            "width": 1026,
+            "height": 540.7575150300602
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 1.05,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 706,
+      "y": 193
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#67c278\">OpenStreetMap vs Google Maps<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 293,
+          "y": 123,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Puerto Principe<br>",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/OSM%20compare%20Puerto%20Principe.png",
+          "type": "Image",
+          "x": 0,
+          "y": 220,
+          "scale": {
+            "x": 0.6845277963831212,
+            "y": 0.6845277963831212,
+            "width": 1022,
+            "height": 538.0388479571333
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 2.09,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 741,
+      "y": 193
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 513,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Humanitarian <br>OpenStreetMap<br>Team<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 42,
+          "y": 48,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 165,
+          "text": "<font color=\"#67c278\">HOT</font>= <br>",
+          "selected": false
+        },
+        {
+          "src": "https://www.youtube.com/watch?v=oNZ_ZBCTRqc",
+          "type": "Video",
+          "x": 200,
+          "y": 300,
+          "scale": {
+            "width": 611.770958489118,
+            "height": 402.13026083898956
+          },
+          "shortSrc": "oNZ_ZBCTRqc",
+          "videoType": "youtube",
+          "srcType": "yt",
+          "selected": false,
+          "skewY": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 667,
+      "y": 252
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 71,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 74,
+          "text": "<font color=\"#67c278\">... Y si no me gusta el mapa?</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 360
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 96,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 107,
+          "text": "Usa otros renders<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 194,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div align=\"center\">Estilos OSM</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 708,
+          "y": 394,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "StamenMaps<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 420,
+          "y": 265,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "MapBox<br>",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/OSM%20Transport%20Quito.png",
+          "type": "Image",
+          "x": 23,
+          "y": 274,
+          "scale": {
+            "x": 0.5,
+            "y": 0.5,
+            "width": 304,
+            "height": 279
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/Stamen%20Watercolor%20Cuenca.png",
+          "type": "Image",
+          "x": 709,
+          "y": 478,
+          "scale": {
+            "x": 0.5043630017452007,
+            "y": 0.5043630017452007,
+            "width": 289,
+            "height": 277.39965095986037
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/Mapbox%20SpaceStation%20Guayaquil.png",
+          "type": "Image",
+          "x": 345,
+          "y": 347,
+          "scale": {
+            "x": 0.6046511627906976,
+            "y": 0.6046511627906976,
+            "width": 338,
+            "height": 275.1162790697674
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 140,
+      "y": 380
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 43,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<div align=\"center\">Online (MapStudio)<br></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 107,
+          "text": "Crea tu propio estilo<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 593,
+          "y": 196,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<div align=\"center\">Offline (QGIS)<br></div>",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/Mapa%20Galapagos%20Pirata%20Mapbox.png",
+          "type": "Image",
+          "x": 24,
+          "y": 288,
+          "scale": {
+            "x": 0.4608050847457627,
+            "y": 0.4608050847457627,
+            "width": 435,
+            "height": 300.4449152542373
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/MapaCuenca%20Sombras.png",
+          "type": "Image",
+          "x": 556,
+          "y": 276,
+          "scale": {
+            "x": 0.4771084337349397,
+            "y": 0.46876597298284045,
+            "width": 395.99999999999994,
+            "height": 309.3855421686747
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 240,
+      "y": 380
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 251,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#fff7f7\"><font color=\"#67c278\">OpenStreetMap </font><br><font color=\"#000000\">el mejor mapa libre del Ecuador</font><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "surface": "bg-custom-a8baaa",
+      "x": 420,
+      "y": 360,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 47,
+          "y": 176,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#fff7f7\"><font color=\"#67c278\">OpenStreetMap </font><br><font color=\"#000000\">el mejor mapa libre del Ecuador</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 450,
+          "y": 257,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ff0101\">______</font>",
+          "selected": false,
+          "rotate": -0.32
+        },
+        {
+          "TextBox": {},
+          "x": 698,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ff0101\">__________</font>",
+          "selected": false,
+          "rotate": -0.25
+        },
+        {
+          "TextBox": {},
+          "x": 693,
+          "y": 320,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#fff7f7\"><font color=\"#000000\">Mundo</font><br></font>",
+          "selected": false
+        }
+      ],
+      "z": -200,
+      "impScale": 2,
+      "rotateX": 1.54,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "surface": "bg-custom-a8baaa",
+      "x": 410,
+      "y": 419,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 247,
+          "y": 237,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<a href=\"http://temporalista.github.io/Presentacion-OSM-Ecuador-2015/PresentacionOSM-Ecuador-2015-feb-2parte.html\">&gt;&gt; Segunda Parte<a><br></a></a>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 123,
+          "y": 409,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<a href=\"http://temporalista.github.io/Presentacion-OSM-Ecuador-2015/PresentacionOSM-Ecuador-2015-feb-2parte.html\">http://temporalista.github.io/Presentacion-OSM-Ecuador-2015/PresentacionOSM-Ecuador-2015-feb-2parte.html</a><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 367,
+          "y": 330,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#67c278\">Cómo contribuir...</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": true,
+      "active": true,
+      "x": 660,
+      "y": 360
+    }
+  ],
+  "background": "bg-solid-light",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 247,
+        "y": 237,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<a href=\"http://temporalista.github.io/Presentacion-OSM-Ecuador-2015/PresentacionOSM-Ecuador-2015-feb-2parte.html\">&gt;&gt; Segunda Parte<a><br></a></a>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 123,
+        "y": 409,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 16,
+        "text": "<a href=\"http://temporalista.github.io/Presentacion-OSM-Ecuador-2015/PresentacionOSM-Ecuador-2015-feb-2parte.html\">http://temporalista.github.io/Presentacion-OSM-Ecuador-2015/PresentacionOSM-Ecuador-2015-feb-2parte.html</a><br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 367,
+        "y": 330,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#67c278\">Cómo contribuir...</font><br>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 26,
+    "selected": true,
+    "active": true,
+    "x": 660,
+    "y": 360
+  },
+  "fileName": "OpenStreetMap Ecuador 2015",
+  "surface": "bg-surf-grad-light",
+  "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/",
+  "deckVersion": "1.0",
+  "cannedTransition": "cards",
+  "customBackgrounds": {
+    "bgs": [
+      {
+        "klass": "bg-custom-a8baaa",
+        "style": "#a8baaa"
+      }
+    ]
+  }
+}

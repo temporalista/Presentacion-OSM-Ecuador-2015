@@ -1,0 +1,673 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 144,
+          "y": 15,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 61,
+          "text": "<font color=\"#67c278\">OpenStreetMap Ecuador</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 131,
+          "y": 92,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 41,
+          "text": "Segunda Parte: ¿Cómo puedo contribuir?",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 764,
+          "y": 727,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 18,
+          "text": "<a href=\"http://temporalista.github.io/Presentacion-OSM-Ecuador-2015/PresentacionOSM-Ecuador-2015-feb.html\">&lt;&lt;Regresar a la primera parte</a><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 722,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Daniel Orellana<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 8,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 481,
+      "y": 232,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 93,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ol><li>Reportando problemas en el mapa</li></ol>",
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/OSM%20add%20Error.png",
+          "type": "Image",
+          "x": 49,
+          "y": 143,
+          "scale": {
+            "x": 0.8838643371017472,
+            "y": 0.8838643371017472,
+            "width": 860,
+            "height": 562.1377183967112
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 357,
+      "y": 186
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 93,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "2. Corrigiendo errores<br>",
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 450,
+          "y": 121,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 26,
+          "text": "<font color=\"#67c278\">A partir de los errores encontrados o reportados<br>por otros usuarios</font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://dl.dropboxusercontent.com/u/13059132/Imagenes/Corregir%20en%20ID.png",
+          "type": "Image",
+          "x": 34,
+          "y": 192,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 598,
+      "y": 186
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 93,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "3. Añadiendo información",
+          "selected": false,
+          "skewY": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 454,
+      "y": 360
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 56,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 84,
+          "text": "<font color=\"#67c278\">Flujo de Trabajo</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 212,
+          "y": 266,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "1. Recolectar información<br>2. Editar el Mapa<br>3. Renderizar<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 380,
+      "y": 336
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 84,
+          "text": "<font color=\"#67c278\">Recolectar Información<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 99,
+          "y": 163,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Trazas GPS<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 519,
+          "y": 158,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Foto/audio mapping<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 586,
+          "y": 473,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Apps móviles<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 470,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Walking papers<br>",
+          "selected": false
+        },
+        {
+          "src": "http://temporalista.github.io/slides-201305-OSM-Cuenca/imgs/map-hanoi.jpg",
+          "type": "Image",
+          "x": 45,
+          "y": 222,
+          "scale": {
+            "x": 0.41423948220064727,
+            "y": 0.41423948220064727,
+            "width": 384,
+            "height": 187.6504854368932
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://wiki.openstreetmap.org/w/images/thumb/4/45/AgPifoJ-screenshot.jpg/400px-AgPifoJ-screenshot.jpg",
+          "type": "Image",
+          "x": 567,
+          "y": 218,
+          "scale": {
+            "x": 0.775,
+            "y": 0.775,
+            "width": 310,
+            "height": 210.025
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://wiki.openstreetmap.org/w/images/thumb/4/41/Surveying_with_walking_papers.jpg/300px-Surveying_with_walking_papers.jpg",
+          "type": "Image",
+          "x": 43,
+          "y": 553,
+          "scale": {
+            "x": 0.65,
+            "y": 0.65,
+            "width": 195,
+            "height": 130.65
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://wiki.openstreetmap.org/w/images/3/30/Walking-papers.scan-example.jpg",
+          "type": "Image",
+          "x": 249,
+          "y": 553,
+          "scale": {
+            "x": 0.4789473684210527,
+            "y": 0.4789473684210527,
+            "width": 182.00000000000003,
+            "height": 134.10526315789474
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://lh5.ggpht.com/Vhko5dRXGjZrx_W5PIeCX1N6Y1NVXJ_wLET1FeWG7DcNg8W4ko0WrNStkYiP1Q4Q8Gc=h900",
+          "type": "Image",
+          "x": 681,
+          "y": 533,
+          "scale": {
+            "x": 0.36250000000000004,
+            "y": 0.36250000000000004,
+            "width": 116.00000000000001,
+            "height": 174.00000000000003
+          },
+          "imageType": "COM/VHKO5DRXGJZRX_W5PIECX1N6Y1NVXJ_WLET1FEWG7DCNG8W4KO0WRNSTKYIP1Q4Q8GC=H900",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 468,
+      "y": 337
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 84,
+          "text": "<font color=\"#67c278\">Editar el Mapa<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 181,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 66,
+          "text": "- En Línea (ID)<br>- Desktop (JOSM)<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 556,
+      "y": 336
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 638,
+          "y": 106,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<font color=\"#67c278\">(o Geobielas)<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Edi%C3%A7%C3%A3o_e_envio_de_dados_durante_a_OpenStreetMap_Mapping_Party_e_Wikiday.JPG",
+          "type": "Image",
+          "x": 79,
+          "y": 220,
+          "scale": {
+            "x": 0.2149122807017544,
+            "y": 0.2149122807017544,
+            "width": 392,
+            "height": 294
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNj5ZhcXegTGc6cz_3YuR582-H8Xz21eW8TWGZU-03Keax7gbu",
+          "type": "Image",
+          "x": 542,
+          "y": 266,
+          "scale": {
+            "x": 1.4942528735632183,
+            "y": 1.4942528735632183,
+            "width": 390,
+            "height": 288.39080459770116
+          },
+          "imageType": "COM/IMAGES",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 84,
+          "text": "<font color=\"#67c278\">Mapping parties<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 571,
+          "y": 564,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 8,
+          "text": "http://openscience.alpine-geckos.at/wp-content/uploads/2013/06/mpgjuli13-einladung.jpg",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 527,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 8,
+          "text": "http://commons.wikimedia.org/wiki/File:Edi%C3%A7%C3%A3o_e_envio_de_dados_durante_a_OpenStreetMap_Mapping_Party_e_Wikiday.JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 408,
+      "y": 402
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 84,
+          "y": 410,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 35,
+          "text": "<i>Cuando creamos juntos un mapa, estamos juntando experiencias <br>colectivas,&nbsp; descubriendo patrones, y llegando a una comprensión<br>&nbsp;conjunta de las causas de esa experiencia colectiva.<br></i>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 108,
+          "y": 643,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 27,
+          "text": "Eli Moore and Catalina Garzón,<br>Social Cartography: The Art of Using Maps to Build Community Power,<br>in Weaving the Threads Vol. 17, No. 2, 2010",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 19,
+          "y": 380,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 119,
+          "text": "<i><font face=\"'Abril Fatface', cursive\">\"</font></i>",
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 803,
+          "y": 463,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 119,
+          "text": "<i><font face=\"'Abril Fatface', cursive\">\"</font></i>",
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/commons/e/ec/Mapping_the_Zoo_Crew_Sign.jpg",
+          "type": "Image",
+          "x": 127,
+          "y": 24,
+          "scale": {
+            "x": 0.56484375,
+            "y": 0.56484375,
+            "width": 723,
+            "height": 366.58359375
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 498,
+      "y": 403
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 144,
+        "y": 15,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 61,
+        "text": "<font color=\"#67c278\">OpenStreetMap Ecuador</font><br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 131,
+        "y": 92,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 41,
+        "text": "Segunda Parte: ¿Cómo puedo contribuir?",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 764,
+        "y": 727,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 18,
+        "text": "<a href=\"http://temporalista.github.io/Presentacion-OSM-Ecuador-2015/PresentacionOSM-Ecuador-2015-feb.html\">&lt;&lt;Regresar a la primera parte</a><br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 24,
+        "y": 722,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "Daniel Orellana<br>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 8,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 481,
+    "y": 232,
+    "markdown": ""
+  },
+  "fileName": "OSM Ecuador 2",
+  "surface": "bg-surf-grad-light",
+  "deckVersion": "1.0",
+  "cannedTransition": "carousel",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
